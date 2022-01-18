@@ -1,0 +1,19 @@
+{
+  "name": "udemy",
+  "version": "1.0.0",
+  "description": "Aprendizado de node na Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliogeneroso/node-udemy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliogeneroso/node-udemy/issues"
+  },
+  "homepage": "https://github.com/juliogeneroso/node-udemy#readme"
+}
