@@ -1,0 +1,14 @@
+{
+  "name": "visual_chalk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "yes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
+}
