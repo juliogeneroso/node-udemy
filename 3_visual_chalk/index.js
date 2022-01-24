@@ -15,7 +15,7 @@ if(n_school>=7)
 else
     disapproved()
 
-    
+
 function approved(){
     console.log(chalk.green(message_approved))
 }
