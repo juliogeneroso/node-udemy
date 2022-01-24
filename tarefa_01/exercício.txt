@@ -1,0 +1,14 @@
+1. Crie um novo projeto que aceite pacotes externos. 
+2. Instale o inquirer e o chalk.
+3. Utilize o inquirer para receber o nome e a idade do usuário. 
+4. Apresente esta resposta com uma cor de fundo amarela e texto preto. 
+5. Dica: Você pode utilizar bgYellow e black!
+6. Insira um tratamento para um possível erro do inquirer com o catch.
+
+1. [x]
+2. [x]
+3. [X]
+4. []
+5. []
+6. []
+
